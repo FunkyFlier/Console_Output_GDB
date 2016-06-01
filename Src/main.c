@@ -89,11 +89,10 @@ int main(void)
   while (1)
   {
   /* USER CODE END WHILE */
-	  //printf(someInt);
-	  printf("output\n");
-	  HAL_Delay(500);
-  /* USER CODE BEGIN 3 */
 
+  /* USER CODE BEGIN 3 */
+	  printf("GDB loop\n");
+	  HAL_Delay(500);
   }
   /* USER CODE END 3 */
 

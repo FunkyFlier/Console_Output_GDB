@@ -2822,8 +2822,8 @@ LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.
  .rodata.str1.1
                 0x08001adc        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\librdimon_nano.a(rdimon-syscalls.o)
  .rodata.str1.1
-                0x08001ae0       0x21 Src/main.o
- *fill*         0x08001b01        0x3 
+                0x08001ae0       0x23 Src/main.o
+ *fill*         0x08001b03        0x1 
  .rodata.__sf_fake_stdin
                 0x08001b04       0x20 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-findfp.o)
                 0x08001b04                __sf_fake_stdin
